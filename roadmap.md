@@ -1,0 +1,11 @@
+# FairShift additions
+- [x] Align three-level permissions in database, screens and existing test accounts; verify denied actions and permitted flows
+- [x] Real accounts, private profiles and protected manager/supervisor permissions
+- [x] QR attendance, live hours, corrections, verification timeline and in-app reminders
+- [x] FairPay allowances, explanations, item disputes and approval tracking
+- [x] SafeVoice Tamil/English, text/voice/photos and progress history
+- [x] Assignment, severity deadlines, overdue escalation and immutable action history
+- [x] Rule tests, authenticated end-to-end checks, accessibility and run instructions
+- [x] Worker skills record and verified Ravi-to-manager journey across permission-scoped interfaces
+- [x] Consent-based check-in/out site location verification, impact figures and judges' multi-industry demonstration guide
+- [ ] Published-device rehearsal and active scheduled delivery — requires user publishing; physical camera/microphone/GPS and OAuth round-trips remain unverified
