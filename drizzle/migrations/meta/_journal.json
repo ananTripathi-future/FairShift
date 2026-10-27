@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793077822411,
+      "tag": "0000_fairshift_private_workflows",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793078056899,
+      "tag": "0001_tighten_helper_access_onboarding",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793078306427,
+      "tag": "0002_skills_and_pay_approval_fix",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793078412873,
+      "tag": "0003_site_location_verification",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793079118408,
+      "tag": "0004_three_level_role_permissions",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1793080532755,
+      "tag": "0005_record_checkin_distance_always",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1793081528518,
+      "tag": "0006_allow_cancel_unattended_shifts",
+      "breakpoints": true
+    }
+  ]
+}
